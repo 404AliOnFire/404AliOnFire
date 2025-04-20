@@ -10,7 +10,7 @@
 </div>
 
 <p align="center">
-  <img width="460" height="300" alt="Digital World" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+  <img width="1960" height="300" alt="Digital World" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&fontAlign=52&descSize=0" />
 </p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>About Me</b>
@@ -91,69 +91,6 @@ I'm Ali Hassoneh, a passionate AI & ML Developer with a background in Game Devel
     <img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-%23313131.svg?style=for-the-badge&logo=unreal-engine&logoColor=white"/>
   </a>
 </p>
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Projects</b>
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">AI Character Animation</h3>
-        <p align="center">
-          <a href="https://github.com/404AliOnFire/ai-character-animation" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-View%20Demo-success?style=for-the-badge&logo=netlify" alt="Demo"/>
-          </a>
-        </p>
-        <p>Real-time character animation using machine learning to predict natural movements from minimal input data.</p>
-        <p><strong>Tech:</strong> PyTorch, Unity, Python</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Neural Environment Generator</h3>
-        <p align="center">
-          <a href="https://github.com/404AliOnFire/neural-environment-gen" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-View%20Demo-success?style=for-the-badge&logo=netlify" alt="Demo"/>
-          </a>
-        </p>
-        <p>Procedural 3D environment generation using neural networks to create diverse, realistic game worlds.</p>
-        <p><strong>Tech:</strong> TensorFlow, Blender, Python</p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Smart NPC System</h3>
-        <p align="center">
-          <a href="https://github.com/404AliOnFire/smart-npc-system" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-View%20Demo-success?style=for-the-badge&logo=netlify" alt="Demo"/>
-          </a>
-        </p>
-        <p>AI-driven NPC behavior system that adapts to player actions and environmental changes.</p>
-        <p><strong>Tech:</strong> C#, Unity, ML-Agents</p>
-      </td>
-      <td width="50%">
-        <h3 align="center">AR AI Assistant</h3>
-        <p align="center">
-          <a href="https://github.com/404AliOnFire/ar-ai-assistant" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View%20Repository-blue?style=for-the-badge&logo=github" alt="Repository"/>
-          </a>
-          <a href="#" target="_blank">
-            <img src="https://img.shields.io/badge/Demo-View%20Demo-success?style=for-the-badge&logo=netlify" alt="Demo"/>
-          </a>
-        </p>
-        <p>Augmented reality assistant powered by AI that can recognize objects and provide contextual information.</p>
-        <p><strong>Tech:</strong> ARKit, CoreML, Swift, Python</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="25"> <b>GitHub Stats</b>
