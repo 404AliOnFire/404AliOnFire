@@ -12,6 +12,12 @@
 <p align="center">
   <img width="1960" height="300" alt="Digital World" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&fontAlign=52&descSize=0" />
 </p>
+
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)</b>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=900&pause=100&color=E5F3F7&multiline=true&repeat=false&width=2500&height=950&lines=->+Ali+Hassoneh+is+typing+...;+;I'm+Ali+Hassoneh%2C+a+passionate+AI+%26+ML+Developer+with+a+background+in+Game+Development.;+;-%3E+...;+;I+thrive+at+the+intersection+of+artificial+intelligence+and+interactive+3D+experiences;+;working+to+create+immersive+digital+worlds+enhanced+by+intelligent+systems.;+;-%3E+...;+;-%3E+ahh..+yes..;+;My+journey+has+evolved+from+crafting+game+mechanics+to+building+neural+networks;+;that+can+enhance+virtual+environments+and+create+more+responsive;+;->+...;+;->+Ali+Hassoneh+has+left+the+chat.;+;->+Ali+Hassoneh+has+joined+the+chat.;+;"Oh+man!+I+forgot+to+tell+you...+click+on+me+for+a+surprise+:p;+;P.S.+u+r+gonna+love+it+)](https://404alionfire.github.io/3d-model-oldapple/)
+
 <p align="center">
   <a href="https://404alionfire.github.io/3d-model-oldapple/">
     <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1&color=14D0FF&background=00755E00&center=true&vCenter=true&repeat=false&width=300&lines=CLICK+FOR+3D" alt="Typing SVG" />
@@ -25,15 +31,10 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)</b>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=900&pause=100&color=E5F3F7&multiline=true&repeat=false&width=2500&height=950&lines=->+Ali+Hassoneh+is+typing+...;+;I'm+Ali+Hassoneh%2C+a+passionate+AI+%26+ML+Developer+with+a+background+in+Game+Development.;+;-%3E+...;+;I+thrive+at+the+intersection+of+artificial+intelligence+and+interactive+3D+experiences;+;working+to+create+immersive+digital+worlds+enhanced+by+intelligent+systems.;+;-%3E+...;+;-%3E+ahh..+yes..;+;My+journey+has+evolved+from+crafting+game+mechanics+to+building+neural+networks;+;that+can+enhance+virtual+environments+and+create+more+responsive;+;->+...;+;->+Ali+Hassoneh+has+left+the+chat.;+;->+Ali+Hassoneh+has+joined+the+chat.;+;"Oh+man!+I+forgot+to+tell+you...+click+on+me+for+a+surprise+:p;+;P.S.+u+r+gonna+love+it+)](https://404alionfire.github.io/3d-model-oldapple/)
-
-
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
-
 
 ##  <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=+Skills+%26+Tools)](https://404alionfire.github.io/3d-model-oldapple/)</b>
+
+
 
 ###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=Programming+Languages)](https://git.io/typing-svg)
 
