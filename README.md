@@ -5,7 +5,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&random=true&width=700&lines=404%3A+Free+Time+Not+Found;AI+%26+ML+Developer;Game+Developer;Lag+in+Real+Life;My+Code+Works+and+I+Don't+Know+Why;Stack+Overflow+VIP+Member;My+AI+Keeps+Asking+for+Rights;Training+ML+Models+to+Find+My+Keys)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&random=true&width=700&lines=404%3A+Free+Time+Not+Found;AI+%26+ML+Developer;Game+Developer;Lag+in+Real+Life;My+Code+Works+and+I+Don't+Know+Why;Stack+Overflow+VIP+Member;My+AI+Keeps+Asking+for+Rights;Training+ML+Models+to+Find+My+Keys)](https://404alionfire.github.io/3d-model-oldapple/)
   
 </div>
 
@@ -13,16 +13,17 @@
   <img width="1960" height="300" alt="Digital World" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&fontAlign=52&descSize=0" />
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>About Me</b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)</b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=900&pause=100&color=E5F3F7&multiline=true&repeat=false&width=2500&height=750&lines=->+Ali+Hassoneh+is+typing+...;+;I'm+Ali+Hassoneh%2C+a+passionate+AI+%26+ML+Developer+with+a+background+in+Game+Development.;+;-%3E+...;+;I+thrive+at+the+intersection+of+artificial+intelligence+and+interactive+3D+experiences;+;working+to+create+immersive+digital+worlds+enhanced+by+intelligent+systems.;+;-%3E+...;+;-%3E+ahh..+yes..;+;My+journey+has+evolved+from+crafting+game+mechanics+to+building+neural+networks;+;that+can+enhance+virtual+environments+and+create+more+responsive;+;->+...;+;->+Ali+Hassoneh+has+left+the+chat.)](https://404alionfire.github.io/3d-model-oldapple/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=900&pause=100&color=E5F3F7&multiline=true&repeat=false&width=2500&height=950&lines=->+Ali+Hassoneh+is+typing+...;+;I'm+Ali+Hassoneh%2C+a+passionate+AI+%26+ML+Developer+with+a+background+in+Game+Development.;+;-%3E+...;+;I+thrive+at+the+intersection+of+artificial+intelligence+and+interactive+3D+experiences;+;working+to+create+immersive+digital+worlds+enhanced+by+intelligent+systems.;+;-%3E+...;+;-%3E+ahh..+yes..;+;My+journey+has+evolved+from+crafting+game+mechanics+to+building+neural+networks;+;that+can+enhance+virtual+environments+and+create+more+responsive;+;->+...;+;->+Ali+Hassoneh+has+left+the+chat.;+;->+Ali+Hassoneh+has+joined+the+chat.;+;"Oh+man!+I+forgot+to+tell+you...+click+on+me+for+a+surprise+:p;+;P.S.+u+r+gonna+love+it+)](https://404alionfire.github.io/3d-model-oldapple/)
+
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills & Tools</b>
+##  <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=+Skills+%26+Tools)](https://404alionfire.github.io/3d-model-oldapple/)</b>
 
-### 💻 Programming Languages
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=Programming+Languages)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="#">
@@ -51,7 +52,7 @@
   </a>
 </p>
 
-### 🧠 AI & Machine Learning
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=AI+%26+Machine+Learning)](https://git.io/typing-svg)
 
 <p align="left">
   <a href="#">
@@ -74,7 +75,7 @@
   </a>
 </p>
 
-### 🎮 3D & Game Development
+###  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=12&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=3D+%26+Game+Development)](https://404alionfire.github.io/3d-model-oldapple/)
 
 <p align="left">
   <a href="#">
@@ -89,7 +90,7 @@
 </p>
 
 
-## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="25"> <b>GitHub Stats</b>
+## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="25"> <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=GitHub+Stats)](https://git.io/typing-svg)</b>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=404AliOnFire&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -100,7 +101,7 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=404AliOnFire&theme=radical&hide_border=true"/>
 </div>
 
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> <b>Connect with Me</b>
+## <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=Connect+with+Me)](https://git.io/typing-svg)</b>
 
 <p align="center">
   <a href="mailto:ali1955.2011@gmail.com">
