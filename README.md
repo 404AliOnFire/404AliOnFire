@@ -15,7 +15,7 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>About Me</b>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=900&pause=100&color=E5F3F7&multiline=true&repeat=false&width=2500&height=750&lines=->+Ali+Hassoneh+is+typing+...;+;I'm+Ali+Hassoneh%2C+a+passionate+AI+%26+ML+Developer+with+a+background+in+Game+Development.;+;-%3E+...;+;I+thrive+at+the+intersection+of+artificial+intelligence+and+interactive+3D+experiences;+;working+to+create+immersive+digital+worlds+enhanced+by+intelligent+systems.;+;-%3E+...;+;-%3E+ahh..+yes..;+;My+journey+has+evolved+from+crafting+game+mechanics+to+building+neural+networks;+;that+can+enhance+virtual+environments+and+create+more+responsive;+;->+...;+;->+Ali+Hassoneh+has+left+the+chat.)]()
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=900&pause=100&color=E5F3F7&multiline=true&repeat=false&width=2500&height=750&lines=->+Ali+Hassoneh+is+typing+...;+;I'm+Ali+Hassoneh%2C+a+passionate+AI+%26+ML+Developer+with+a+background+in+Game+Development.;+;-%3E+...;+;I+thrive+at+the+intersection+of+artificial+intelligence+and+interactive+3D+experiences;+;working+to+create+immersive+digital+worlds+enhanced+by+intelligent+systems.;+;-%3E+...;+;-%3E+ahh..+yes..;+;My+journey+has+evolved+from+crafting+game+mechanics+to+building+neural+networks;+;that+can+enhance+virtual+environments+and+create+more+responsive;+;->+...;+;->+Ali+Hassoneh+has+left+the+chat.)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
