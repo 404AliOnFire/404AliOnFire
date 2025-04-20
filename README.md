@@ -12,6 +12,18 @@
 <p align="center">
   <img width="1960" height="300" alt="Digital World" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&section=header&reversal=false&fontAlign=52&descSize=0" />
 </p>
+<p align="center">
+  <a href="https://404alionfire.github.io/3d-model-oldapple/">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&duration=1&pause=1&color=14D0FF&background=00755E00&center=true&vCenter=true&repeat=false&width=300&lines=CLICK+FOR+3D" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://404alionfire.github.io/3d-model-oldapple/">
+    <img src="https://github.com/404AliOnFire/404AliOnFire/blob/main/Images/Apple_2_Sketch-removebg-preview.png?raw=true" alt="3D Model" width="250" height="250"/>
+  </a>
+</p>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1&pause=1&color=F72900&background=00755E00&repeat=false&width=435&lines=About+Me)](https://git.io/typing-svg)</b>
 
