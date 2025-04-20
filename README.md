@@ -5,7 +5,7 @@
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+%26+ML+Developer;Game+Developer;3D+Experience+Creator;Bridging+AI+with+3D+Worlds)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2500&pause=1000&color=F70000&center=true&vCenter=true&random=true&width=700&lines=404%3A+Free+Time+Not+Found;AI+%26+ML+Developer;Game+Developer;Lag+in+Real+Life;My+Code+Works+and+I+Don't+Know+Why;Stack+Overflow+VIP+Member;My+AI+Keeps+Asking+for+Rights;Training+ML+Models+to+Find+My+Keys)](https://git.io/typing-svg)
   
 </div>
 
@@ -15,14 +15,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> <b>About Me</b>
 
-I'm Ali Hassoneh, a passionate AI & ML Developer with a background in Game Development. I thrive at the intersection of artificial intelligence and interactive 3D experiences, working to create immersive digital worlds enhanced by intelligent systems. My journey has evolved from crafting game mechanics to building neural networks that can enhance virtual environments and create more responsive, adaptive experiences.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=28&duration=900&pause=100&color=E5F3F7&multiline=true&repeat=false&width=2500&height=750&lines=->+Ali+Hassoneh+is+typing+...;+;I'm+Ali+Hassoneh%2C+a+passionate+AI+%26+ML+Developer+with+a+background+in+Game+Development.;+;-%3E+...;+;I+thrive+at+the+intersection+of+artificial+intelligence+and+interactive+3D+experiences;+;working+to+create+immersive+digital+worlds+enhanced+by+intelligent+systems.;+;-%3E+...;+;-%3E+ahh..+yes..;+;My+journey+has+evolved+from+crafting+game+mechanics+to+building+neural+networks;+;that+can+enhance+virtual+environments+and+create+more+responsive;+;->+...;+;->+Ali+Hassoneh+has+left+the+chat.)](https://git.io/typing-svg)
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
--  I'm currently working on merging AI with interactive 3D experiences
--  I'm continuously learning advanced ML techniques and 3D modeling
--  I'm looking to collaborate on AI-powered game development projects
-- 💬 Ask me about AI integration in games, ML model architecture, or 3D modeling
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills & Tools</b>
 
