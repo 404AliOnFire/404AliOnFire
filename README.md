@@ -19,9 +19,9 @@ I'm Ali Hassoneh, a passionate AI & ML Developer with a background in Game Devel
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif"/>
 
-- 🔭 I'm currently working on merging AI with interactive 3D experiences
-- 🌱 I'm continuously learning advanced ML techniques and 3D modeling
-- 👯 I'm looking to collaborate on AI-powered game development projects
+-  I'm currently working on merging AI with interactive 3D experiences
+-  I'm continuously learning advanced ML techniques and 3D modeling
+-  I'm looking to collaborate on AI-powered game development projects
 - 💬 Ask me about AI integration in games, ML model architecture, or 3D modeling
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> <b>Skills & Tools</b>
@@ -155,23 +155,6 @@ I'm Ali Hassoneh, a passionate AI & ML Developer with a background in Game Devel
   </table>
 </div>
 
-## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25"> <b>Experience</b>
-
-- **Research Assistant, AI Lab** (2022 - Present)
-  - Developing novel ML models for character animation and environment generation
-  - Implementing AI systems for interactive 3D experiences
-  - Researching applications of reinforcement learning in virtual environments
-
-- **Game Developer, XYZ Studio** (2019 - 2021)
-  - Created game mechanics and character controllers
-  - Developed procedural generation systems for game environments
-  - Collaborated with artists and designers to implement visual assets
-
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> <b>Education & Certifications</b>
-
-- **B.Sc. in Computer Science**
-- **Udemy**: "Complete AI & ML Bootcamp"
-- **Coursera**: "Deep Learning Specialization"
 
 ## <img src="https://media.giphy.com/media/KcnlGHBpnKnjZIuCMv/giphy.gif" width="25"> <b>GitHub Stats</b>
 
@@ -218,6 +201,4 @@ I'm Ali Hassoneh, a passionate AI & ML Developer with a background in Game Devel
   <p>
     <img src="https://komarev.com/ghpvc/?username=404AliOnFire&style=flat&color=blueviolet" alt="Profile views">
   </p>
-  
-  <p>💻 <i>Let's create intelligent, immersive experiences together!</i> 💻</p>
 </div>
